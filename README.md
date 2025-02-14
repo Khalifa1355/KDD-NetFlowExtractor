@@ -32,6 +32,6 @@ A Python-based network traffic analyzer designed to extract and preprocess featu
   - Install dependencies
   - pip install -r requirements.txt
   - Install Wireshark/TSHARK:
-          - Linux:   sudo apt-get install wireshark-tshark
-          - Windows: Download and install Wireshark.
+    Linux:   sudo apt-get install wireshark-tshark
+    Windows: Download and install Wireshark.
   
