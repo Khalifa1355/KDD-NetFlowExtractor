@@ -27,11 +27,11 @@ A Python-based network traffic analyzer designed to extract and preprocess featu
 - Linux/WinPcap (Windows) for raw socket access
   
 ## Installation
-  Clone the repository
-  cd KDDNetFlow-Extractor
-  Install dependencies
-  pip install -r requirements.txt
-  Install Wireshark/TSHARK:
-  -Linux:   sudo apt-get install wireshark-tshark
-  -Windows: Download and install Wireshark.
+  - Clone the repository
+  - cd KDDNetFlow-Extractor
+  - Install dependencies
+  - pip install -r requirements.txt
+  - Install Wireshark/TSHARK:
+  - Linux:   sudo apt-get install wireshark-tshark
+  - Windows: Download and install Wireshark.
   
