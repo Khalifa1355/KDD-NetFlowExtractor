@@ -11,6 +11,8 @@ import csv
 import os
 import glob
 global records
+
+
 def create_connection_records(cap):
 
     # Collect packets from the same connection, create connection dict
